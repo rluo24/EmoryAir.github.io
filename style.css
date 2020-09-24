@@ -87,3 +87,9 @@ th {
     background-color: rgba(255, 255, 255, 1);
   }
   
+/*****Map Columns Mobile site*****/
+@media screen and (max-width: 600px) {
+.column1, .column2{
+    display: block;
+  }
+}
