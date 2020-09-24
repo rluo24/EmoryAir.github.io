@@ -89,7 +89,9 @@ th {
   
 /*****Map Columns Mobile site*****/
 @media screen and (max-width: 600px) {
-.column1, .column2{
+.column1{
     width = 100%;
   }
+.column2{
+	width = 100%; 
 }
